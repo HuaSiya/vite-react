@@ -1,0 +1,18 @@
+{
+    "android": {
+        "version": "1.1.0",
+        "buildNumber": 2,
+        "downloadUrl": "https://github.com/HuaSiya/appversion/releases/download/v/app-release.apk",
+        "updateDescription": "1. 修复已知问题\n2. 优化用户体验\n3. 新增功能 A\n4. 提升应用性能",
+        "forceUpdate": false,
+        "minVersion": "1.0.0"
+    },
+    "ios": {
+        "version": "1.1.0",
+        "buildNumber": 2,
+        "downloadUrl": "",
+        "updateDescription": "1. 修复已知问题\n2. 优化用户体验\n3. 新增功能 A\n4. 提升应用性能",
+        "forceUpdate": false,
+        "minVersion": "1.0.0"
+    }
+}
