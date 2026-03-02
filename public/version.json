@@ -2,8 +2,8 @@
     "android": {
         "version": "1.0.1",
         "buildNumber": 2,
-        "downloadUrl": "https://wwblx.lanzouw.com/iUvCw3jmqbwj",
-        "updateDescription": "1. 修复用户登录认证，统一处理路由和认证逻辑\n2. 优化个人资料页面\n3. 优化上传界面",
+        "downloadUrl": "https://wwblx.lanzouw.com/iYOBJ3jmujih",
+        "updateDescription": "1. 添加全局应用更新功能和认证保护\n2. 修复退出登录卡死的情况",
         "forceUpdate": false,
         "minVersion": "1.0.0"
     },
