@@ -1,21 +1,18 @@
 {
-    "android": {
-        "version": "1.0.1",
-        "buildNumber": 2,
-        "downloadUrl": "https://wwblx.lanzouw.com/iYOBJ3jmujih",
-        "updateDescription": "1. 添加全局应用更新功能和认证保护\n2. 修复退出登录卡死的情况",
-        "forceUpdate": false,
-        "minVersion": "1.0.0"
-    },
-    "ios": {
-        "version": "1.1.0",
-        "buildNumber": 2,
-        "downloadUrl": "",
-        "updateDescription": "1. 修复已知问题\n2. 优化用户体验\n3. 新增功能 A\n4. 提升应用性能",
-        "forceUpdate": false,
-        "minVersion": "1.0.0"
-    }
-
+  "android": {
+    "version": "1.0.2",
+    "buildNumber": 2,
+    "downloadUrl": "https://wwblx.lanzouw.com/iYOBJ3jmujih",
+    "updateDescription": "1. 添加全局应用更新功能和认证保护\n2. 修复退出登录卡死的情况",
+    "forceUpdate": false,
+    "minVersion": "1.0.0"
+  },
+  "ios": {
+    "version": "1.1.0",
+    "buildNumber": 2,
+    "downloadUrl": "",
+    "updateDescription": "1. 修复已知问题\n2. 优化用户体验\n3. 新增功能 A\n4. 提升应用性能",
+    "forceUpdate": false,
+    "minVersion": "1.0.0"
+  }
 }
-
-
