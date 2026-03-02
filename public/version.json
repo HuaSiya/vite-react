@@ -2,8 +2,8 @@
     "android": {
         "version": "1.0.1",
         "buildNumber": 2,
-        "downloadUrl": "https://wwblx.lanzouw.com/idR2j3jm7cti",
-        "updateDescription": "1. 实现首页无限滚动加载功能\n2. 优化发布资源时资源链接输入",
+        "downloadUrl": "https://wwblx.lanzouw.com/iUvCw3jmqbwj",
+        "updateDescription": "1. 修复用户登录认证，统一处理路由和认证逻辑\n2. 优化个人资料页面\n3. 优化上传界面",
         "forceUpdate": false,
         "minVersion": "1.0.0"
     },
@@ -17,4 +17,5 @@
     }
 
 }
+
 
