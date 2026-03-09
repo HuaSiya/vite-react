@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "buildNumber": 2,
-    "downloadUrl": "https://wwblx.lanzouw.com/iYOBJ3jmujih",
-    "updateDescription": "1. 添加全局应用更新功能和认证保护\n2. 修复退出登录卡死的情况",
+    "downloadUrl": "https://wwblx.lanzouw.com/izj2H3k6kgbc",
+    "updateDescription": "1. 添加资源搜索和性能优化\n2. 添加图片预加载缓存提升用户体验",
     "forceUpdate": false,
     "minVersion": "1.0.0"
   },
