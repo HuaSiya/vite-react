@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "buildNumber": 2,
-    "downloadUrl": "https://wwblx.lanzouw.com/i23mt3k6le7c",
-    "updateDescription": "1. 添加资源搜索和性能优化\n2. 添加图片预加载缓存提升用户体验",
+    "downloadUrl": "https://wwblx.lanzouw.com/idFAv3kfhtpa",
+    "updateDescription": "1. 优化界面显示",
     "forceUpdate": false,
     "minVersion": "1.0.0"
   },
